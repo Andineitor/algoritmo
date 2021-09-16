@@ -1,0 +1,6 @@
+[45] [75] [19] [51] [60] 
+El menor elemento es: 19
+El mayor elemento es: 75
+[74] [29] 
+El menor elemento es: 29
+El mayor elemento es: 74
